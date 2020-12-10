@@ -2,10 +2,11 @@
 Esse é um trabalho sobre analise de dados com o objetivo de explorar o conhecimento estudado na aula de Algoritmos da Faculdade
 
 # Autores da análise:
-
+[Jean Gomes](https://github.com/jeangomes3)
+[Vitor Lima](https://github.com/VilRL)
 # Fontes dos dados utilizado:
 
-Pesquisas Eleitorais(https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos.html)
+[Pesquisas Eleitorais](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos.html)
 
 # Conlusão
 A nossa analise foi baseado em três categorias, Partido, Grau de Escolaridade e Genero dos candidatos
